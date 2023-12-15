@@ -25,7 +25,7 @@ You are free to use any classifier (Hint: The web pages are really long, so mode
 3. To see how well you perform in the leaderboard, you need to run the prediction code on the test sets of both the datasets. For metamia dataset, save the results as `metamia_results.csv` and for mp3.1, save as `mp3.1_results.csv`. These two files must be located in the root folder in your repo, i.e., it should not be under any sub-folders. 
 
 
-There are no restrictions on the number of submissions.
+There are no restrictions on the number of submissions.ddsa
 
 ## Grading
 
